@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="33.8666mm" height="33.8666mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3387 3387"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="573" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Source Sans Pro">
+		<font-face-src>
+			<font-face-name name="Source Sans Pro Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="$" horiz-adv-x="528" d="M214.993 -110.008l96.9951 0 0 104.015c103.016,22.0015 156.008,95.9963 156.008,191.993 0,190.994 -263.99,183.004 -263.99,278.001 0,45.0019 25.9966,64.0071 73.9948,64.0071 42.0055,0 72.996,-17.0077 109.009,-49.9957l73.9948 83.9825c-39.0092,41.0068 -85.0098,72.996 -149.017,82.0135l0 100.99 -96.9951 0 0 -102.988c-93.9988,-19.0052 -151.985,-87.0074 -151.985,-185.001 0,-180.007 263.99,-178.01 263.99,-280.998 0,-46.0006 -24.9979,-69.0009 -80.9862,-69.0009 -47.9982,0 -92.0013,19.9755 -143.024,57.9859l-63.9785 -98.9927c46.9994,-43.0043 116.999,-69.0009 175.984,-75.9924l0 -100.02z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Source Sans Pro";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil2 {fill:none}
+    .fil6 {fill:#029AE5}
+    .fil8 {fill:#049CE5}
+    .fil7 {fill:#4C4B4B}
+    .fil4 {fill:#606060}
+    .fil3 {fill:#E7E8F4}
+    .fil9 {fill:#EAE9F2}
+    .fil5 {fill:#F29145}
+    .fil10 {fill:#FC9F05}
+    .fil0 {fill:#FFB74C}
+    .fil1 {fill:#FFC369}
+    .fnt0 {font-weight:bold;font-size:350.43px;font-family:'Source Sans Pro'}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M1693 0c936,0 1694,758 1694,1693 0,936 -758,1694 -1694,1694 -935,0 -1693,-758 -1693,-1694 0,-935 758,-1693 1693,-1693z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1957611722368">
+   <path class="fil0" d="M1693 0c936,0 1694,758 1694,1693 0,936 -758,1694 -1694,1694 -935,0 -1693,-758 -1693,-1694 0,-935 758,-1693 1693,-1693z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <polygon id="1" class="fil1" points="1212,2380 1075,2494 2507,3321 4379,1983 2625,970 773,2127 "/>
+    </g>
+   </g>
+   <path class="fil2" d="M1693 0c936,0 1694,758 1694,1693 0,936 -758,1694 -1694,1694 -935,0 -1693,-758 -1693,-1694 0,-935 758,-1693 1693,-1693z"/>
+   <g>
+    <polygon class="fil3" points="880,2019 2422,2019 2423,1078 881,1076 "/>
+    <path class="fil3" d="M1636 1311c-38,-15 -72,-23 -80,-68 -9,-55 24,-75 61,-88 37,-13 1,2 22,-16 6,-4 -12,-6 13,-6 22,0 3,9 32,21 11,5 15,3 27,10 8,4 85,62 -16,57 -13,-17 -5,-18 -26,-24l0 67c43,15 89,24 88,84 0,53 -41,75 -88,85l-3 34 -28 0 -3 -33c-44,-9 -91,-34 -85,-83l50 -3c15,19 14,29 36,37l0 -74z"/>
+    <polygon class="fil3" points="1984,1517 2190,1518 2190,1977 1982,1977 "/>
+    <polygon class="fil3" points="1114,1687 1321,1687 1319,1977 1113,1976 "/>
+    <polygon class="fil3" points="1403,1587 1611,1587 1609,1977 1403,1976 "/>
+    <path class="fil3" d="M1693 1693l204 0c7,23 7,256 1,284l-206 -1 1 -283z"/>
+    <path class="fil4" d="M881 1076l1542 2 -1 941 -1542 0 1 -943zm513 1057c21,-10 101,-5 138,-6 5,0 16,0 21,0l21 5c24,-10 118,-7 152,-4l142 -1c30,0 26,-2 43,9 2,-5 -8,-9 30,-10l588 1 2 -1159 -1758 1 0 1158c135,5 325,0 469,0 27,0 53,0 79,0l66 3c1,0 3,1 3,1 1,1 3,1 4,2z"/>
+    <polygon class="fil5" points="2529,2127 2624,2127 2625,970 2531,968 "/>
+    <polygon class="fil6" points="1982,1977 2190,1977 2190,1518 1984,1517 "/>
+    <polygon class="fil6" points="1403,1976 1609,1977 1611,1587 1403,1587 "/>
+    <path class="fil7" d="M2229 2494c-5,-18 -318,-358 -318,-358 -17,-11 -13,-9 -43,-9l-142 1 0 5 309 337c27,34 29,24 86,24 36,0 72,0 108,0z"/>
+    <path class="fil7" d="M1394 2133l-79 87c-35,44 -229,246 -240,274l172 1c18,-28 306,-332 327,-363l-21 -5c-5,0 -16,0 -21,0 -37,1 -117,-4 -138,6z"/>
+    <polygon class="fil6" points="1113,1976 1319,1977 1321,1687 1114,1687 "/>
+    <path class="fil8" d="M1692 1976l206 1c6,-28 6,-261 -1,-284l-204 0 -1 283z"/>
+    <path class="fil5" d="M2229 2494l95 0c-9,-22 -59,-67 -77,-89 -28,-35 -230,-254 -242,-275l524 -3 -588 -1c-38,1 -28,5 -30,10 0,0 313,340 318,358z"/>
+    <path class="fil5" d="M1574 2132c-21,31 -309,335 -327,363 89,-6 76,27 149,-62l251 -275c23,-26 25,-38 79,-25l0 -5c-34,-3 -128,-6 -152,4z"/>
+    <path class="fil9" d="M1669 1389c43,-6 49,-61 -1,-68l1 68z"/>
+    <text x="1564" y="1411"  class="fil10 fnt0">$</text>
+   </g>
+  </g>
+ </g>
+</svg>
